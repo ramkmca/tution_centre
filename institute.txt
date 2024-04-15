@@ -1,0 +1,6 @@
+Added the database “esuppgrn_institute”. 
+You have successfully created a MySQL user named “esuppgrn_institu”.
+Password:institute@123
+User: esuppgrn_institu
+
+Database: esuppgrn_institute
